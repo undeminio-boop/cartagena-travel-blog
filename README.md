@@ -28,12 +28,10 @@ You should **walk around** the streets to admire the graffiti and meet the local
 ## 🧱 4. The Ancient Walls
 You **can't miss** the chance to walk along these history-filled walls at sunset. **If you watch the sunset here, you will have a perfect memory.**
 
-(https://github.com/user-attachments/assets/a24e4f49-6dea-4a21-9299-482be4b8bc26)
 
+![foto 4](https://github.com/user-attachments/assets/9ff7fae6-cdc4-4e9d-8540-e880bbab8a99)
 
----
-
-## 🏖️ 5. Islas del Ros![foto 5](https://github.com/user-attachments/assets/0c04baf1-da5b-4a25-aa73-6219b133c431)
+## 🏖️ 5. Islas del Rosario
 ario
 If the weather is sunny, you **can swim** in the crystal-clear waters. You **must take** a boat from the pier to arrive there.
 
