@@ -32,11 +32,12 @@ You **can't miss** the chance to walk along these history-filled walls at sunset
 ![foto 4](https://github.com/user-attachments/assets/9ff7fae6-cdc4-4e9d-8540-e880bbab8a99)
 
 ## 🏖️ 5. Islas del Rosario
-ario
+
 If the weather is sunny, you **can swim** in the crystal-clear waters. You **must take** a boat from the pier to arrive there.
 
 
----![Uploading foto 5.jpg…]()
+![islas del rosario](https://github.com/user-attachments/assets/c47bf788-e6da-437c-b9bb-eff5e27fcd0a)
+
 
 
 ## ⛪ 6. San Pedro Claver Church
