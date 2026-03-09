@@ -6,99 +6,98 @@
 ## 📸 1. Why Cartagena?
 Cartagena is a mandatory stop because it offers stunning landscapes and rich culture. **If you visit the Walled City, you will fall in love with its colonial architecture** (First Conditional). This city used to be a fortress.
 
-![Old City](https://tourismmedia.unwto.org/sites/default/files/2021-01/cartagena.jpg)
+<img src="https://tourismmedia.unwto.org/sites/default/files/2021-01/cartagena.jpg" width="100%" />
 
 ---
 
 ## 🏛️ 2. San Felipe de Barajas Castle
-You **must explore** this iconic fortress. You **must go up** to the castle to get an amazing view of the sea.
+You **must explore** this iconic fortress to understand our history. You **must go up** to the castle to get an amazing view of the sea.
 
-![San Felipe](https://www.cartagena-indias.com/Castillo-San-Felipe/castillo-san-felipe.jpg)
+<img src="https://www.cartagena-indias.com/Castillo-San-Felipe/castillo-san-felipe.jpg" width="100%" />
 
 ---
 
 ## 🎨 3. Getsemaní Neighborhood
-You should **walk around** the streets to admire the graffiti. The vibe here is very authentic.
+You should **walk around** the streets to admire the graffiti and meet the locals. The vibe here is artistic and authentic.
 
-![Getsemani](https://blog.vivaair.com/hubfs/getsemani-cartagena.jpg)
+<img src="https://blog.vivaair.com/hubfs/getsemani-cartagena.jpg" width="100%" />
 
 ---
 
 ## 🧱 4. The Ancient Walls
-You **can't miss** the chance to walk along these history-filled walls at sunset.
+You **can't miss** the chance to walk along these history-filled walls at sunset. **If you watch the sunset here, you will have a perfect memory.**
 
-![The Walls](https://cdn.pixabay.com/photo/2020/02/03/17/39/cartagena-4816174_1280.jpg)
+<img src="https://www.eluniversal.com.co/sites/default/files/201905/murallas_0.jpg" width="100%" />
 
 ---
 
 ## ⛪ 5. San Pedro Claver Church
-You **must visit** this beautiful sanctuary. It shows the colonial history of Colombia.
+You **must visit** this beautiful sanctuary in the city center. It shows the religious history of Colombia.
 
-![Church](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cartagena_de_Indias_-_Iglesia_de_San_Pedro_Claver.jpg/800px-Cartagena_de_Indias_-_Iglesia_de_San_Pedro_Claver.jpg)
+<img src="https://www.eluniversal.com.co/sites/default/files/201709/san_pedro_claver_0.jpg" width="100%" />
 
 ---
 
 ## 🏖️ 6. Islas del Rosario
-If the weather is sunny, you **can swim** in crystal-clear waters. It is a Caribbean paradise.
+If the weather is sunny, you **can swim** in the crystal-clear waters. You **must take** a boat from the pier to arrive there.
 
-![Rosario Islands](https://lavitrinaturistica.com/wp-content/uploads/2020/07/islas-del-rosario.jpg)
+<img src="https://lavitrinaturistica.com/wp-content/uploads/2020/07/islas-del-rosario.jpg" width="100%" />
 
 ---
 
 ## 🥥 7. Local Gastronomy
-You **must try** local dishes like "Arepa de Huevo". The flavors represent our coast.
+You **must try** local dishes like arepas and ceviche; they will blow your mind!. The fresh flavors represent the Caribbean coast.
 
-![Food](https://img.eldefinido.cl/portadas/650/2018-09-11-735955.jpg)
+<img src="https://img.eldefinido.cl/portadas/650/2018-09-11-735955.jpg" width="100%" />
 
 ---
 
 ## 🛍️ 8. Las Bóvedas Market
-You **should buy** souvenirs here to support local artisans. It is a very colorful place.
+You **should buy** souvenirs here to support local artisans. **If you visit the market on Sunday, you might find unique crafts.**
 
-![Bovedas](https://www.eluniversal.com.co/sites/default/files/201804/las_bovedas.jpg)
+<img src="https://www.eluniversal.com.co/sites/default/files/201804/las_bovedas.jpg" width="100%" />
 
 ---
 
 ## 💃 9. Salsa Night
-You **could dance** salsa all night. You **must learn** some basic steps to enjoy the music.
+You **could dance** salsa all night in the popular clubs. You **must learn** some basic steps to enjoy the music.
 
-![Salsa](https://i.pinimg.com/originals/93/2c/80/932c8035f99403a5518b5329f635f11e.jpg)
+<img src="https://i.pinimg.com/originals/93/2c/80/932c8035f99403a5518b5329f635f11e.jpg" width="100%" />
 
 ---
 
 ## 🛶 10. La Boquilla Mangroves
-You **should go** through the tunnels of trees. If you go early, you will see many birds.
+You **should go** through the tunnels of trees for a natural adventure. If you go early, you will see many exotic birds.
 
-![Mangroves](https://www.baquianos.com/blog/wp-content/uploads/2020/02/la-boquilla-cartagena.jpg)
+<img src="https://www.baquianos.com/blog/wp-content/uploads/2020/02/la-boquilla-cartagena.jpg" width="100%" />
 
 ---
 
 ## 🌳 11. Parque del Centenario
-You **can look for** sloths and iguanas in the trees. It is a green oasis.
+You **can look for** sloths and iguanas in the trees. It is a green oasis in the middle of the city.
 
-![Park](https://lavitrinaturistica.com/wp-content/uploads/2021/01/parque-centenario-cartagena.jpg)
+<img src="https://lavitrinaturistica.com/wp-content/uploads/2021/01/parque-centenario-cartagena.jpg" width="100%" />
 
 ---
 
 ## 🌋 12. Totumo Volcano
-You **should experience** the mud bath. You **have to wash up** in the lagoon later.
+You **should experience** the mud bath for its health benefits. You **have to wash up** in the lagoon after the bath.
 
-![Volcano](https://www.cartagena-indias.com/Volcan-del-Totumo/volcan-del-totumo.jpg)
+<img src="https://www.cartagena-indias.com/Volcan-del-Totumo/volcan-del-totumo.jpg" width="100%" />
 
 ---
 
 ## 🐚 13. Barú Island (Playa Blanca)
-If you like white sand, you **must visit** Barú. The water is warm and blue.
+If you like white sand, you **must visit** Barú. The water is warm and blue. It is a Caribbean paradise.
 
-![Baru](https://blog.vivaair.com/hubfs/Baru_Playa_Blanca.jpg)
+<img src="https://blog.vivaair.com/hubfs/Baru_Playa_Blanca.jpg" width="100%" />
 
 ---
 
-## 💡 14. Final Travel Tips
-Follow these recommendations for a safe trip:
-* **Sun:** You **have to wear** sunscreen every day.
+## 💡 14. Travel Tips
+* **Protection:** You **have to wear** sunscreen every day to avoid getting sunburned.
 * **Safety:** You **must take** official taxis at night for security.
-* **Support:** You **should buy** from local artisans.
+* **Support:** You **should buy** from locals to support the economy.
 
 ---
 _Professional Blog designed by **Fausto Rosario Espitia** for UNAD._
